@@ -1,11 +1,13 @@
 # Umrit.fit_Laksmi-PS
-Predicting Hospital Readmission
-Overview
+# Predicting Hospital Readmission
+## Overview
+
 This project focuses on predicting hospital readmissions for patients with heart failure, pneumonia, and acute myocardial infarction using a dataset from Kaggle. The dataset includes demographic information, lab test results, medications, and various clinical factors.
 
 Kaggle Dataset: Hospital Readmission
 
-Data Preprocessing
+## Data Preprocessing
+
 Missing Values: The dataset was verified to have no missing values, preserving its integrity.
 Outlier Treatment: Outliers were retained as they represent valid medical records that provide important patient health information.
 Encoding Categorical Variables: Label encoding was utilized to convert categorical variables into a numerical format suitable for analysis.
